@@ -12,7 +12,7 @@ Une petite fille de 8 ans qui s’ennuie dans sa chambre.
 - Le niveau de difficulté est facile, celui d’une petite fille de 8 ans qui ne joue pas beaucoup. 
 - La balle ne va donc pas accélérer très vite.
 
-L'objectif est bien d'**avoir un jeu jouable**. Si vous n'arrivez pas à afficher des petits coeurs pour les vies par exemple ce n'est pas très grave. Allez à l'essentiel et gérez bien votre temps. Faites des mises en ligne sur github dès que vous avez réussi une étape et testez bien que ça fonctionne en ligne qu'en local.
+L'objectif est bien d'**avoir un jeu jouable**. Si vous n'arrivez pas à afficher des petits coeurs pour les vies par exemple ce n'est pas très grave. Allez à l'essentiel et gérez bien votre temps. Faites des mises en ligne régulièrement sur github dès que vous avez réussi une étape et testez bien que ça fonctionne en ligne aussi bien qu'en local.
 
 ## Pour commencer
 
