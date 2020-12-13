@@ -5,9 +5,14 @@ Votre partiel du 14/12/2020
 
 Un petit aperçu de ce que j'attends [est visible ici](https://drive.google.com/file/d/1ypgUYziRdZlav33MX-wfUyRSb4CpwXQm/view?usp=sharing).
 
+### Pour qui est fait ce jeu?
+Une petite fille de 8 ans qui s’ennuie dans sa chambre.
 
-L'objectif est bien d'**avoir un jeu jouable**. Si vous n'arrivez pas à afficher des petits coeurs pour les vies par exemple ce n'est pas très grave. Allez à l'essentiel et gérez bien votre temps.
+- On reste minimal dans le graphisme (car ce n’est pas l’objet du partiel) mais gardez en tête que les petites filles de 8 ans adorent le rose sous toutes ses formes :\
+- Le niveau de difficulté est facile, celui d’une petite fille de 8 ans qui ne joue pas beaucoup. 
+- La balle ne va donc pas accélérer très vite.
 
+L'objectif est bien d'**avoir un jeu jouable**. Si vous n'arrivez pas à afficher des petits coeurs pour les vies par exemple ce n'est pas très grave. Allez à l'essentiel et gérez bien votre temps. Faites des mises en ligne sur github dès que vous avez réussi une étape et testez bien que ça fonctionne en ligne qu'en local.
 
 ## Pour commencer
 
@@ -21,12 +26,7 @@ Bref...faites la même chose que les autres fois :)
 
 Vous pouvez partir de votre pong comme point de départ, [partir de mon code](https://github.com/davidmars/pong-jquery) ou repartir de zéro si vous êtes dingos, c’est comme vous le sentez.
 
-### Pour qui est fait ce jeu?
-Une petite fille de 8 ans qui s’ennuie dans sa chambre.
 
-- On reste minimal dans le graphisme (car ce n’est pas l’objet du partiel) mais gardez en tête que les petites filles de 8 ans adorent le rose sous toutes ses formes :\
-- Le niveau de difficulté est facile, celui d’une petite fille de 8 ans qui ne joue pas beaucoup. 
-- La balle ne va donc pas accélérer très vite.
 
 ## Screen de départ
 Faire un écran de départ qui ressemble à ça :
