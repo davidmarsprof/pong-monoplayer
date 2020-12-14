@@ -1,6 +1,14 @@
 # Un Pong Monoplayer
 Votre partiel du 14/12/2020
 
+#### Déroulement
+
+On éteint les téléphones et on coupe le son des PCs. Vous avez accès au web, mais pas de chat et cie. Je ne veux pas vous voir vous ballader sur les repos github de vos camarades, c'est pas un travail d'équipe cette fois. Si vous copiez le travail de vos collègues ce sera facile à voir et ce sera rapide à n0ter pour moi.
+
+- 14h00 - 14h05 Prennez connaissance des consignes, posez les questions si il y en a. 
+- 14h05 - 14h15 On ne code pas! Réfléchissez un peu sur papier à comment vous allez faire.
+- 14h15 - 15h55 On ententend des ventilos de PC, des touches de clavier et rien d'autre.
+
 -----------
 
 Un petit aperçu de ce que j'attends [est visible ici](https://drive.google.com/file/d/1ypgUYziRdZlav33MX-wfUyRSb4CpwXQm/view?usp=sharing).
@@ -12,7 +20,9 @@ Une petite fille de 8 ans qui s’ennuie dans sa chambre.
 - Le niveau de difficulté est facile, celui d’une petite fille de 8 ans qui ne joue pas beaucoup. 
 - La balle ne va donc pas accélérer très vite.
 
-L'objectif est bien d'**avoir un jeu jouable**. Si vous n'arrivez pas à afficher des petits coeurs pour les vies par exemple ce n'est pas très grave. Allez à l'essentiel et gérez bien votre temps. Faites des mises en ligne régulièrement sur github dès que vous avez réussi une étape et testez bien que ça fonctionne en ligne aussi bien qu'en local.
+L'objectif est bien d'**avoir un jeu jouable**. Si vous n'arrivez pas à afficher des petits coeurs pour les vies par exemple ce n'est pas très grave, affichez des ronds ou simplement un texte. Allez à l'essentiel, gérez bien votre temps. Faites des mises en ligne régulièrement sur github dès que vous avez réussi une étape et testez bien que ça fonctionne en ligne aussi bien qu'en local.
+
+
 
 ## Pour commencer
 
@@ -85,4 +95,5 @@ Le bouton rejouer permet de refaire une partie,
 - Utiliser switch case quelque part  (m’indiquer où c’est dans votre README dans le code)
 - Toutes les variables et toutes les méthodes sont commentées selon la norme jsdoc.
 - En bas du pong afficher des commentaires aléatoires en fonction de ce qui se passe dans le jeu (Bien joué, pas mal, dommage, perdu, super, bravo…)
+- Quand il reste 3 vies, faire apparaitre un coeur au centre du terrain. Si ce coeur est touché alors il disparait et la joueuse gagne une vie.
 
