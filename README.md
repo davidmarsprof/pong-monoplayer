@@ -1,6 +1,13 @@
 # Un Pong Monoplayer
 Votre partiel du 14/12/2020
 
+## Corrigé
+Sources
+https://github.com/davidmarsprof/pong-jquery-monoplayer
+
+Projet
+https://davidmarsprof.github.io/pong-jquery-monoplayer/
+
 #### Déroulement
 
 On éteint les téléphones et on coupe le son des PCs. Vous avez accès au web, mais pas de chat et cie. Je ne veux pas vous voir vous ballader sur les repos github de vos camarades, c'est pas un travail d'équipe cette fois. Si vous copiez le travail de vos collègues ce sera facile à voir et ce sera rapide à n0ter pour moi.
